@@ -1,0 +1,4 @@
+C:\Users\aoyama\source\repos\AtCoder\AtCoder\obj\Debug\netcoreapp2.1\AtCoder.csprojAssemblyReference.cache
+C:\Users\aoyama\source\repos\AtCoder\AtCoder\obj\Debug\netcoreapp2.1\AtCoder.csproj.CoreCompileInputs.cache
+C:\Users\aoyama\source\repos\AtCoder\AtCoder\obj\Debug\netcoreapp2.1\AtCoder.AssemblyInfoInputs.cache
+C:\Users\aoyama\source\repos\AtCoder\AtCoder\obj\Debug\netcoreapp2.1\AtCoder.AssemblyInfo.cs
